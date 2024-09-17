@@ -52,7 +52,7 @@ The main objective of this project is to create an engaging and interactive plat
 
 ## 📈 Visualizations
 
-[Krishna E-commerce Sales Dashboard](path/to/your/dashboard/image.png)
+![Krishna E-commerce Sales Dashboard](https://github.com/Parthpaul/Power-BI--Krishna-Ecommerce-Sales/blob/main/Krishna%20e-commerce%20sales%20Dashboard.png?raw=true)
 
 ## 📬 Contact
 
